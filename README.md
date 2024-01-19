@@ -1,4 +1,4 @@
-# Nettoyage de données en Python pour un caviste en ligne
+# 🍾 Nettoyage de données en Python pour un caviste en ligne
 
 🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.<br>
 🛠 Mots clés : **Python, Pandas, Numpy, Seaborn, Matplotlib, Plotly Express, exploration et nettoyage de données**
